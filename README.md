@@ -51,11 +51,15 @@ Risk-adjusted metrics reveal that stability can outperform aggressive growth str
 4. Insights derived from Python, SQL, and Power BI consistently matched, confirming correctness of calculations
 This cross-tool validation strengthens confidence in the results and demonstrates an end-to-end analytics workflow.
 
+### Power BI Dashboard (Live)
+An interactive Power BI dashboard has been published to visualize cryptocurrency performance, risk, and return dynamics.
+👉 **View the live dashboard here:**
+**[https://app.powerbi.com/groups/me/reports/5b0e5cbe-2174-4389-9a5a-b2966eac9183/02c59dc8d0e2cdca5c8a?experience=power-bi](https://app.powerbi.com/groups/me/reports/5b0e5cbe-2174-4389-9a5a-b2966eac9183/02c59dc8d0e2cdca5c8a?experience=power-bi)**
+
 ### What I Learned
 1. Strengthened understanding of return metrics, including daily returns, cumulative returns, and risk-adjusted performance
 2. Learned how to analyze volatility and drawdowns to assess downside risk, not just profitability
 3. Practiced data validation across Python, SQL, Excel, and Power BI, ensuring consistent results across tools
 4. Developed proficiency in Power BI DAX measures, interactive slicers, and tooltip-driven storytelling
 5. Improved ability to translate raw financial data into clear, decision-focused dashboards
-
 
